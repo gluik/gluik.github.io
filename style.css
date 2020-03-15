@@ -286,8 +286,10 @@ footer{
     }
     .icon{
         margin: 5% 0;
-        font-size: 20px;
-   }
+   }   
+    footer span{
+        font-size:12px;
+    }
 }
 @media only screen and (max-width: 430px){
     .title{
@@ -311,9 +313,8 @@ footer{
     .done h4{
         font-size:30px;
     }
-    footer span{
-        font-size:12px;
-    }
+ 
+
 }
 @media only screen and (min-width: 1850px){
     .nav{
