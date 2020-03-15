@@ -240,7 +240,7 @@ footer{
         font-size:16px;
     }
     .content{
-        padding-top:0;
+        padding-top:50px;
     }
 
     .left{
@@ -296,6 +296,9 @@ footer{
     .ux{
         font-size:20px;
     }
+    .ux h4{
+        font-size:16px;
+    }
     .left{
         font-size:14px;
     }
@@ -304,6 +307,9 @@ footer{
     }
     .done p{
         font-size:18px;
+    }
+    .done h4{
+        font-size:30px;
     }
     footer span{
         font-size:12px;
